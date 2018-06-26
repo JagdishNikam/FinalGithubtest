@@ -120,7 +120,8 @@ private class TestSampleCon  {
       sample.doInsert(); 
        sample.doInsertFS();
       sample.doInsertSlider();
-      Test.stopTest();//Ends the scope of test        
+      Test.stopTest();//Ends the scope of test   
+      //sampletest	  
        
     }    
 }
